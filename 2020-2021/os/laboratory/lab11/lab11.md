@@ -30,9 +30,11 @@
 1. Написал скрипт, который при запуске будет делать резервную копию самого себя в другую директорию backup в вашем домашнем каталоге. 
 
 Рис.1 Скрипт архивации
+
 ![Скрипт архивации](https://raw.githubusercontent.com/dgevseljev/work1/master/2020-2021/os/laboratory/lab11/screens/%D0%A0%D0%B8%D1%81.1%20%D0%A1%D0%BA%D1%80%D0%B8%D0%BF%D1%82%20%D0%B0%D1%80%D1%85%D0%B8%D0%B2%D0%B0%D1%86%D0%B8%D0%B8.png)
 
 Рис.2 Результат архивации
+
 ![Результат архивации](https://raw.githubusercontent.com/dgevseljev/work1/master/2020-2021/os/laboratory/lab11/screens/%D0%A0%D0%B8%D1%81.2%20%D0%A0%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%20%D0%B0%D1%80%D1%85%D0%B8%D0%B2%D0%B0%D1%86%D0%B8%D0%B8.png)
 
 
@@ -43,6 +45,7 @@
 ![Командный файл](https://raw.githubusercontent.com/dgevseljev/work1/master/2020-2021/os/laboratory/lab11/screens/%D0%A0%D0%B8%D1%81.3%20%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D1%8B%D0%B9%20%D1%84%D0%B0%D0%B9%D0%BB.png)
 
 Рис.4 Запуск командного файла
+
 ![Запуск](https://raw.githubusercontent.com/dgevseljev/work1/master/2020-2021/os/laboratory/lab11/screens/%D0%A0%D0%B8%D1%81.4%20%D0%97%D0%B0%D0%BF%D1%83%D1%81%D0%BA%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%84%D0%B0%D0%B9%D0%BB%D0%B0.png)
 
 3. Написал командный файл — аналог команды ls (без использования самой этой команды и команды dir), который выдает информацию о нужном каталоге и выводить информацию о возможностях доступа к файлам этого каталога.
@@ -52,17 +55,21 @@
 ![Скрипт](https://raw.githubusercontent.com/dgevseljev/work1/master/2020-2021/os/laboratory/lab11/screens/%D0%A0%D0%B8%D1%81.5%20%D0%A1%D0%BA%D1%80%D0%B8%D0%BF%D1%82%3A%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BE%20%D1%84%D0%B0%D0%B9%D0%BB%D0%B5.png)
 
 Рис.6 Запуск командного файла
+
 ![Скрипт](https://raw.githubusercontent.com/dgevseljev/work1/master/2020-2021/os/laboratory/lab11/screens/%D0%A0%D0%B8%D1%81.6%20%D0%97%D0%B0%D0%BF%D1%83%D1%81%D0%BA%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%84%D0%B0%D0%B9%D0%BB%D0%B0.png)
 
 4. Написал командный файл, который получает в качестве аргумента командной строки формат файла (.txt, .doc, .jpg, .pdf и т.д.) и вычисляет количество таких файлов в указанной директории. Путь к директории также передаётся в виде аргумента командной строки.
 
 Рис.7 Скрипт: поиск по расширению
+
 ![Скрипт](https://raw.githubusercontent.com/dgevseljev/work1/master/2020-2021/os/laboratory/lab11/screens/%D0%A0%D0%B8%D1%81.7%20%D0%A1%D0%BA%D1%80%D0%B8%D0%BF%D1%82%3A%20%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%20%D0%BF%D0%BE%20%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D1%8E.png)
 
 Рис.8 Запуск командного файла
+
 ![Скрипт](https://raw.githubusercontent.com/dgevseljev/work1/master/2020-2021/os/laboratory/lab11/screens/%D0%A0%D0%B8%D1%81.8%20%D0%97%D0%B0%D0%BF%D1%83%D1%81%D0%BA%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%84%D0%B0%D0%B9%D0%BB%D0%B0.png)
 
 Рис.9 Содержание папки dir
+
 ![Скрипт](https://raw.githubusercontent.com/dgevseljev/work1/master/2020-2021/os/laboratory/lab11/screens/%D0%A0%D0%B8%D1%81.9%20%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B8%20dir.png)
 
 ## Контрольные вопросы
